@@ -1,0 +1,52 @@
+/*.head {}*/
+
+.body{
+    font-family: 'Lucida Sans';
+    font: size 3em;
+    background-color: rgb(48, 48, 163);
+}
+
+.header-h3 { 
+    padding: 0;
+    display: flex;
+    background-color: rgb(180, 180, 252);
+    text-align: center;
+    height: 200px;
+   
+}
+
+.table {
+   border-width: 20px;
+   border-color: rgb(48, 48, 163);
+
+}
+
+.navbar {
+    color: #c22e2e;
+}
+
+.navbar ul {
+    font-style: bold;
+    color: #c22e2e;
+}
+
+.navbar li {
+    list-style: none;
+}
+
+.NAC {
+font-style: bold;
+font-size: 30px;
+}
+
+.categoria {
+    font-style: italic;
+    font-size: 20px;
+    }
+
+.footer {
+   height: 200px;
+    margin: 0;
+    text-align: left;
+    background-color: rgb(180, 180, 252);
+}
